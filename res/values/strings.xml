@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LovelaceBabbage</string>
+    <string name="action_settings">Settings</string>
+    <string name="ada_t"><b>Ada Lovelace</b></string>
+    <string name="charles_t"><b>Charles Babbage</b></string>
+    <string name="ada"><b>Ada Lovelace</b><i>(1815-1852)</i> was born Augusta Ada Byron, 
+        the only legitimate child of Annabella Milbanke 
+        and the poet Lord Byron. Her mother, Lady Byron, 
+        had mathematical training (Byron called her his \'Princess of Parallelograms\') 
+        and insisted that Ada, who was tutored privately, 
+        study mathematics too - an unusual education for a woman.\n\nAda met Babbage at a party in 1833 
+when she was seventeen and was entranced 
+when Babbage demonstrated the small working section 
+of the Engine to her. 
+She intermitted her mathematical studies 
+for marriage and motherhood but resumed 
+when domestic duties allowed. 
+In 1843 she published a translation from the French 
+of an article on the Analytical Engine by an Italian engineer, 
+Luigi Menabrea, to which Ada added extensive notes of her own. 
+The Notes included the first published description of 
+a stepwise sequence of operations for solving certain 
+mathematical problems and Ada is often referred to 
+as \'the first programmer\'.
+The collaboration with Babbage was close 
+and biographers debate the extent and originality 
+of Ada\'s contribution.\n\nPerhaps more importantly,
+the article contained statements by Ada 
+that from a modern perspective are visionary. 
+She speculated that the Engine \'might act upon other things 
+besides number &#8230; the Engine might compose elaborate 
+and scientific pieces of music of any degree of complexity 
+or extent\'. 
+The idea of a machine that could manipulate symbols 
+in accordance with rules and that number could represent 
+entities other than quantity mark 
+the fundamental transition from calculation to computation. 
+Ada was the first to explicitly articulate this notion 
+and in this she appears to have seen further than Babbage. 
+She has been referred to as \'prophet of the computer age\'. 
+Certainly she was the first to express the potential 
+for computers outside mathematics. 
+In this the tribute is well-founded.\n\n<i>Source: Computer History Museum</i></string>
+<string name="ada2">Ada Lovelace (1815-1852)was born Augusta Ada Byron, 
+        the only legitimate child of Annabella Milbanke 
+        and the poet Lord Byron. Her mother, Lady Byron, 
+        had mathematical training (Byron called her his \'Princess of Parallelograms\') 
+        and insisted that Ada, who was tutored privately, 
+        study mathematics too - an unusual education for a woman.\n\nAda met Babbage at a party in 1833 
+when she was seventeen and was entranced 
+when Babbage demonstrated the small working section 
+of the Engine to her. 
+She intermitted her mathematical studies 
+for marriage and motherhood but resumed 
+when domestic duties allowed. 
+In 1843 she published a translation from the French 
+of an article on the Analytical Engine by an Italian engineer, 
+Luigi Menabrea, to which Ada added extensive notes of her own. 
+The Notes included the first published description of 
+a stepwise sequence of operations for solving certain 
+mathematical problems and Ada is often referred to 
+as \'the first programmer\'.
+The collaboration with Babbage was close 
+and biographers debate the extent and originality 
+of Ada\'s contribution.\n\nPerhaps more importantly,
+the article contained statements by Ada 
+that from a modern perspective are visionary. 
+She speculated that the Engine \'might act upon other things 
+besides number &#8230; the Engine might compose elaborate 
+and scientific pieces of music of any degree of complexity 
+or extent\'. 
+The idea of a machine that could manipulate symbols 
+in accordance with rules and that number could represent 
+entities other than quantity mark 
+the fundamental transition from calculation to computation. 
+Ada was the first to explicitly articulate this notion 
+and in this she appears to have seen further than Babbage. 
+She has been referred to as \'prophet of the computer age\'. 
+Certainly she was the first to express the potential 
+for computers outside mathematics. 
+In this the tribute is well-founded.\n\n<i>Source: Computer History Museum</i></string>
+    <string name="babbage"><b>Vital Statistics</b>\nCharles Babbage (1791-1871) was born in Walworth, 
+        Surrey, on December 26, 1791. 
+        He was one of four children born to 
+        the banker Benjamin Babbage and Elizabeth Teape. 
+        He attended Trinity, Cambridge, 
+        in 1810 to study mathematics, 
+        graduated without honors from Peterhouse 
+        in 1814 and received an MA in 1817. 
+        In 1814 he married Georgiana Whitmore 
+        with whom he had eight children, 
+        only three of whom lived to adulthood. 
+        The couple made their home in London 
+        off Portland Place in 1815. 
+        His wife, father, and two of his children died in 1827. 
+        In 1828 Babbage moved to 1 Dorset Street, Marylebone, 
+        which remained his home till his death in 1871. 
+        He was elected a fellow of the Royal Society 
+        in 1816 and occupied the Lucasian chair of mathematics 
+        at Cambridge University from 1828 to 1839. 
+        He died on October 18, 1871 and was buried 
+        at Kensal Green cemetery in London.\n\n<b>Gentleman of Science</b>\nScience was not 
+        an established profession, and Babbage, 
+        like many of his contemporaries, 
+        was a \'gentleman scientist\' &#8211; 
+        an independently wealthy amateur well 
+        able to support his interests from his own means. 
+        The scope of Babbage\'s interests 
+        was polymathically wide even by the generous 
+        standards of the day. 
+        Between 1813 and 1868 he published six 
+        full-length works and nearly ninety papers. 
+        He was a prolific inventor, mathematician, 
+        scientist, reforming critic 
+        of the scientific establishment and political economist. 
+        He pioneered lighthouse signalling, 
+        invented the ophthalmoscope, proposed \'black box\' 
+        recorders for monitoring the conditions preceding 
+        railway catastrophes, advocated decimal currency, 
+        proposed the use of tidal power 
+        once coal reserves were exhausted, 
+        designed a cow-catcher for the front 
+        end of railway locomotives, 
+        failsafe quick release couplings 
+        for railway carriages, 
+        multi-colored theatre lighting, an altimeter, 
+        a seismic detector, a tugboat for winching 
+        vessels upstream, a \'hydrofoil\' 
+        and an arcade game for members 
+        of the public to challenge 
+        in a game of tic-tac-toe. 
+        His interests included lock picking, 
+        ciphers, chess, submarine propulsion, 
+        armaments, and diving bells. 
+        Babbage was a prominent figure, 
+        regarded as colorfully controversial 
+        and even eccentric at home in England, 
+        yet feted with honors by Continental academies. 
+        He ached for recognition and was aggrieved 
+        at its lack grumbling that the 
+        Lucasian chair of mathematics at Cambridge, 
+        was the only honor bestowed on him by his country.\n\n<b>Personal Life</b>\n
+Babbage married Georgiana Whitmore in 1814, 
+against his father\'s wishes. 
+The marriage was a very happy one. 
+Tragedy struck in 1827. 
+In the space of a year his father 
+with whom he had had a troubled relationship, 
+his second son (Charles), 
+Georgiana and a newborn son all died. 
+Babbage was inconsolable. 
+Close to breakdown he went on 
+an extended trip on the Continent. 
+There was a further cruel blow. 
+His daughter, Georgiana, on whom he doted, 
+died while still in her teens sometime around 1834. 
+Babbage immersed himself in work. 
+On his father\'s death he inherited 
+an estate valued at \u00A3 &#163; 100,000, 
+a sizeable fortune &#8211; somewhere between 
+$6 and $30 million dollars in today\'s terms. 
+He never remarried.\n\nIn the 1830s Babbage was 
+a lion of the London social scene. 
+His Saturday soirees were sparkling events 
+in the London social calendar, 
+and his house in Dorset Street 
+was a hub of social and intellectual life. 
+Celebrities, civil dignitaries, authors, 
+actors, scientists, bishops, bankers, 
+politicians, industrialists and socialites 
+converged for gossip, intrigue, 
+and the latest in science, literature, philosophy and art. 
+\'All were eager to go to his glorious soirees\' 
+wrote Harriet Martineau, writer and philosopher. 
+Babbage was also a sought-after dinner 
+guest with a reputation for being a captivating raconteur. 
+\'Mr. Babbage is coming to dinner\' 
+was a coup for any hostess.\n\n<b>The \'Irascible Genius\'</b>\nDiplomacy 
+was not Babbage\'s forte 
+and his social and professional personas were at war. 
+Proud and principled, he was capable 
+of incontinent savagery 
+in his public attacks on the scientific establishment, 
+often beyond ordinary sensibility. 
+He offended many whose support 
+he needed behaving sometimes 
+as though being right entitled him to be rude. 
+The title of the first biography 
+on his life was called \'Irascible Genius: 
+A Life of Charles Babbage, Inventor\'. 
+The twin characteristics of irascibility 
+and genius remain the defining signatures 
+of his historical portrait.\n\n<b>Epilogue</b>\nIn a prophetic 
+passage written towards the end 
+of his life Babbage affirmed his conviction 
+in the value of his work.\n\n<i>\'If unwarned by my example, 
+any man shall undertake and shall succeed 
+in really constructing an engine &#8230; upon different 
+principles or by simpler mechanical means, 
+I have no fear of leaving my reputation 
+in his charge, for he alone will be fully 
+able to appreciate the nature of my efforts 
+and the value of their results.\'</i>\n\n<i>Source: Computer History Museum</i></string>
+<string name="babbagel">Vital Statistics\nCharles Babbage (1791-1871) was born in Walworth, 
+        Surrey, on December 26, 1791. 
+        He was one of four children born to 
+        the banker Benjamin Babbage and Elizabeth Teape. 
+        He attended Trinity, Cambridge, 
+        in 1810 to study mathematics, 
+        graduated without honors from Peterhouse 
+        in 1814 and received an MA in 1817. 
+        In 1814 he married Georgiana Whitmore 
+        with whom he had eight children, 
+        only three of whom lived to adulthood. 
+        The couple made their home in London 
+        off Portland Place in 1815. 
+        His wife, father, and two of his children died in 1827. 
+        In 1828 Babbage moved to 1 Dorset Street, Marylebone, 
+        which remained his home till his death in 1871. 
+        He was elected a fellow of the Royal Society 
+        in 1816 and occupied the Lucasian chair of mathematics 
+        at Cambridge University from 1828 to 1839. 
+        He died on October 18, 1871 and was buried 
+        at Kensal Green cemetery in London.\n\n<b>Gentleman of Science</b>\nScience was not 
+        an established profession, and Babbage, 
+        like many of his contemporaries, 
+        was a \'gentleman scientist\' &#8211; 
+        an independently wealthy amateur well 
+        able to support his interests from his own means. 
+        The scope of Babbage\'s interests 
+        was polymathically wide even by the generous 
+        standards of the day. 
+        Between 1813 and 1868 he published six 
+        full-length works and nearly ninety papers. </string>
+    
+
+</resources>
